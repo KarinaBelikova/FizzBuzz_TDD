@@ -1,0 +1,12 @@
+/Users/karina/Projects/tdd/FizzBuzz/bin/Debug/net7.0/FizzBuzz.deps.json
+/Users/karina/Projects/tdd/FizzBuzz/bin/Debug/net7.0/FizzBuzz.dll
+/Users/karina/Projects/tdd/FizzBuzz/bin/Debug/net7.0/FizzBuzz.pdb
+/Users/karina/Projects/tdd/FizzBuzz/obj/Debug/net7.0/FizzBuzz.csproj.AssemblyReference.cache
+/Users/karina/Projects/tdd/FizzBuzz/obj/Debug/net7.0/FizzBuzz.GeneratedMSBuildEditorConfig.editorconfig
+/Users/karina/Projects/tdd/FizzBuzz/obj/Debug/net7.0/FizzBuzz.AssemblyInfoInputs.cache
+/Users/karina/Projects/tdd/FizzBuzz/obj/Debug/net7.0/FizzBuzz.AssemblyInfo.cs
+/Users/karina/Projects/tdd/FizzBuzz/obj/Debug/net7.0/FizzBuzz.csproj.CoreCompileInputs.cache
+/Users/karina/Projects/tdd/FizzBuzz/obj/Debug/net7.0/FizzBuzz.dll
+/Users/karina/Projects/tdd/FizzBuzz/obj/Debug/net7.0/refint/FizzBuzz.dll
+/Users/karina/Projects/tdd/FizzBuzz/obj/Debug/net7.0/FizzBuzz.pdb
+/Users/karina/Projects/tdd/FizzBuzz/obj/Debug/net7.0/ref/FizzBuzz.dll
